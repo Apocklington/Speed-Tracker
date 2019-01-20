@@ -1,0 +1,7 @@
+C:\Users\aaron\OneDrive\Desktop\C#\SpeedTracker\SpeedTracker\bin\Debug\SpeedTracker.exe.config
+C:\Users\aaron\OneDrive\Desktop\C#\SpeedTracker\SpeedTracker\bin\Debug\SpeedTracker.exe
+C:\Users\aaron\OneDrive\Desktop\C#\SpeedTracker\SpeedTracker\bin\Debug\SpeedTracker.pdb
+C:\Users\aaron\OneDrive\Desktop\C#\SpeedTracker\SpeedTracker\obj\Debug\SpeedTracker.csprojAssemblyReference.cache
+C:\Users\aaron\OneDrive\Desktop\C#\SpeedTracker\SpeedTracker\obj\Debug\SpeedTracker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\C#\SpeedTracker\SpeedTracker\obj\Debug\SpeedTracker.exe
+C:\Users\aaron\OneDrive\Desktop\C#\SpeedTracker\SpeedTracker\obj\Debug\SpeedTracker.pdb
